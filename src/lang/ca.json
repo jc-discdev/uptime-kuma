@@ -24,5 +24,9 @@
     "Reconnecting...": "S'està tornant a connectar...",
     "languageName": "Català",
     "Primary Base URL": "URL Base Primària",
-    "statusMaintenance": "Manteniment"
+    "statusMaintenance": "Manteniment",
+    "PasswordsDoNotMatch": "Les contrasenyes no coincideixen.",
+    "Add a domain": "Afegir un domini",
+    "Remove domain": "Eliminar un domini '{0}'",
+    "successBackupRestored": "Còpia de seguretat recuperada correctamet.",
 }
